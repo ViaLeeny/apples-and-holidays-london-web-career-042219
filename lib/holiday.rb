@@ -64,8 +64,7 @@ def all_winter_holiday_supplies(holiday_hash)
     end
     array
   end 
-  holiday_hash[:winter][:christmas].values_at
-  holiday_hash[:winter][:new_years].values_at
+
 
 end
 
