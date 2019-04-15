@@ -62,7 +62,7 @@ def all_winter_holiday_supplies(holiday_hash)
       array << v
       
     end
-    
+    array
   end 
   holiday_hash[:winter][:christmas].values_at
   holiday_hash[:winter][:new_years].values_at
